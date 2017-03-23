@@ -1,0 +1,10 @@
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\bin\Debug\GMap.NET.WindowsForms.pdb
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\bin\Debug\GMap.NET.Core.dll
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\bin\Debug\GMap.NET.Core.pdb
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.csprojResolveAssemblyReference.cache
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\obj\Debug\GMap.NET.TilePrefetcher.resources
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\obj\Debug\System.Windows.Forms.Properties.Resources.resources
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.csproj.GenerateResource.Cache
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.dll
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.pdb

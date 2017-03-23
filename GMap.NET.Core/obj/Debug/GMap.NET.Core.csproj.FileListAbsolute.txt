@@ -1,0 +1,7 @@
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.Core\bin\Debug\GMap.NET.Core.dll
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.Core\bin\Debug\GMap.NET.Core.pdb
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.Core\obj\Debug\GMap.NET.Core.csprojResolveAssemblyReference.cache
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.Core\obj\Debug\GMap.NET.Properties.Resources.resources
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.Core\obj\Debug\GMap.NET.Core.csproj.GenerateResource.Cache
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.Core\obj\Debug\GMap.NET.Core.dll
+C:\MyGitHubProject\Gmap2017-0323\GMap.NET.Core\obj\Debug\GMap.NET.Core.pdb
